@@ -1,0 +1,14 @@
+/* this will hide the sidebar */
+#sidebarContainer {
+	display: none;
+}
+
+#contentContainer {
+	text-align: left;
+	margin: 0;
+	width: auto;
+}
+
+#contentContainer #content {
+	padding: 20px;
+}

@@ -1,0 +1,14 @@
+#include <AudioUnit/AudioUnit.h>
+#include "xmplay.h"
+#include "XMFile.h"
+
+@interface XMPlayer : NSObject 
+{
+	AudioComponentInstance m_audio_unit;
+}
+
+-(void)play:(XMFile*)xm;
+
+-(void)stop;
+
+@end

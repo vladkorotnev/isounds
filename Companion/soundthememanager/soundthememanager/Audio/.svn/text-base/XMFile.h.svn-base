@@ -1,0 +1,14 @@
+#include "xmplay.h"
+#import "Resource.h"
+
+/**
+ * Encapsulates an XM music file
+ **/
+@interface XMFile : Resource
+{
+	XM_Song* m_song;
+}
+
+@property (readonly) XM_Song* data;
+
+@end

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>OS Sounds official iSounds Store</string>
+	<key>TitleImg</key>
+	<string>http://is0unds.tk/appdata/logo.png</string>
+	<key>FooterImg</key>
+	<string></string>
+	<key>gadpub</key>
+	<string>a14ea0203ce8900</string>
+	<key>AvailSounds</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Tapbots sounds</string>
+			<key>URL</key>
+			<string>http://is0unds.tk/appdata/packages/tapbots.zip</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Apple Newton</string>
+			<key>URL</key>
+			<string>http://is0unds.tk/appdata/packages/newttheme.zip</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Mac OS 9</string>
+			<key>URL</key>
+			<string>http://is0unds.tk/appdata/packages/os9.zip</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Lego Mindstorms NXT</string>
+			<key>URL</key>
+			<string>http://is0unds.tk/appdata/packages/lego.zip</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Windows XP</string>
+			<key>URL</key>
+			<string>http://is0unds.tk/appdata/packages/WinXP.zip</string>
+		</dict>
+	</array>
+	<key>FriendsRepos</key>
+	<array>
+
+	</array>
+</dict>
+</plist>

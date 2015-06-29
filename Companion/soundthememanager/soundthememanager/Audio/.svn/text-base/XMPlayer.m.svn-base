@@ -1,0 +1,321 @@
+#import "XMPlayer.h"
+
+#define kOutputBus 0
+#define kInputBus 1
+#define SAMPLE_RATE 44100
+//#define SAMPLE_RATE 22000
+
+int _pcm[44100];
+int _pcmsize = 0;
+int _index;
+
+
+@implementation XMPlayer
+
+
+
+/** XM_Mixer read callback **/
+#define INTERNAL_BUFFER_SIZE 2048
+static xm_s32 mix_buff[INTERNAL_BUFFER_SIZE*2];
+ 
+static OSStatus playbackCallback(void *inRefCon, 
+								 AudioUnitRenderActionFlags* ioActionFlags, 
+								 const AudioTimeStamp*       inTimeStamp, 
+								 UInt32                      inBusNumber, 
+								 UInt32                      inNumberFrames, 
+								 AudioBufferList*            ioData) 
+{
+	int todo = ioData->mBuffers[0].mDataByteSize / 4;
+	int i;
+	signed short* dst_buff = (signed short*)ioData->mBuffers[0].mData;
+	
+	while(todo) 
+	{
+		int to_mix=todo;
+		if (to_mix>INTERNAL_BUFFER_SIZE) {
+			to_mix=INTERNAL_BUFFER_SIZE;
+		}
+
+		todo -= to_mix;
+		
+		for (i=0;i<to_mix*2;i++) {
+			
+			mix_buff[i]=0; // clean up target buffer 
+		}
+		xm_software_mix_to_buffer(mix_buff,to_mix);
+		
+		for (i=0;i<to_mix*2;i++) {
+			dst_buff[i]=mix_buff[i]>>16; // conver to 16 bits 
+		}
+	}
+	
+	return noErr;
+}
+
+
+/** XM_MemoryManager Implementation */
+static void * alloc_mem(xm_u32 p_size, XM_MemoryAllocType p_alloc_type) {
+	LOG(@"Asked to allocate %d bytes", p_size);
+	return malloc(p_size);
+}
+
+static void free_mem(void *p_mem, XM_MemoryAllocType p_alloc_type) {
+	LOG(@"Asked to free pointer: %p", p_mem);
+	free(p_mem);
+}
+
+
+/** XM_FileIO Implementation **/
+FILE *f=NULL;
+xm_bool f_be;
+
+xm_bool fileio_in_use() {
+	return f ? xm_true : xm_false;		
+}
+
+XM_FileIOError fileio_open(const char *p_file,xm_bool p_big_endian_mode) 
+{
+	NSString* path = [[NSBundle mainBundle] pathForResource:@"test" ofType: @"xm"];
+	
+	if (f) {
+		return XM_FILE_ERROR_IN_USE;
+	}
+
+	f=fopen([path cStringUsingEncoding:1],"rb");
+	if (!f) {
+		return XM_FILE_ERROR_CANT_OPEN;
+	}
+	
+	f_be = p_big_endian_mode;
+	
+	return XM_FILE_OK;
+}
+
+xm_u8 fileio_get_u8() 
+{
+	xm_u8 b;
+	
+	if (!f) {
+		fprintf(stderr,"File Not Open!");
+		return 0;	
+	}
+	
+	fread(&b,1,1,f);
+	
+	return b;
+}
+
+xm_u16 fileio_get_u16() 
+{
+	xm_u8 a,b;
+	xm_u16 c;
+	
+	if (!f) {
+		fprintf(stderr,"File Not Open!");
+		return 0;	
+	}
+	
+	if (!f_be) {
+		a=fileio_get_u8();
+		b=fileio_get_u8();
+	} else {
+		
+		b=fileio_get_u8();
+		a=fileio_get_u8();		
+	}
+	
+	c=((xm_u16)b << 8 ) | a;
+	
+	return c;
+}
+
+xm_u32 fileio_get_u32() 
+{
+	xm_u16 a,b;
+	xm_u32 c;
+	
+	if (!f) {
+		
+		fprintf(stderr,"File Not Open!");
+		return 0;	
+	}
+	
+	if (!f_be) {
+		a=fileio_get_u16();
+		b=fileio_get_u16();
+	} else {
+		
+		b=fileio_get_u16();
+		a=fileio_get_u16();		
+	}
+	
+	c=((xm_u32)b << 16 ) | a;	
+	
+	return c;
+}
+
+void fileio_get_byte_array(xm_u8 *p_dst,xm_u32 p_count) 
+{
+	if (!f) {
+		fprintf(stderr,"File Not Open!");
+		return;	
+	}
+	
+	fread(p_dst,p_count,1,f);
+}
+
+void fileio_seek_pos(xm_u32 p_offset) 
+{
+	if (!f) {
+		fprintf(stderr,"File Not Open!");
+		return;	
+	}
+	
+	fseek(f,p_offset,SEEK_SET);
+}
+
+xm_u32 fileio_get_pos() 
+{
+	if (!f) {
+		fprintf(stderr,"File Not Open!");
+		return 0;	
+	}
+	
+	return ftell(f);
+}
+
+xm_bool fileio_eof_reached() 
+{
+	if (!f) {
+		
+		fprintf(stderr,"File Not Open!");
+		return xm_true;	
+	}
+	
+	return feof(f)?xm_true:xm_false;
+}
+
+void fileio_close() 
+{
+	if (!f) {
+		fprintf(stderr,"File Not Open!");
+		return;	
+	}
+	
+	fclose(f);
+	f=NULL;
+}
+
+
+
+
+
+-(id)init
+{
+	if((self = [super init]) != nil)
+	{
+		// ChibiXM Memory Management
+		XM_MemoryManager* memory_manager = malloc(sizeof(XM_MemoryManager));
+		memory_manager->alloc = alloc_mem;
+		memory_manager->free  = free_mem;
+		xm_set_memory_manager(memory_manager);
+
+		// ChibiXM File I/O
+		XM_FileIO* file_io = malloc(sizeof(XM_FileIO));	
+		file_io->in_use         = fileio_in_use;
+		file_io->open           = fileio_open;
+		file_io->get_u8         = fileio_get_u8;
+		file_io->get_u16        = fileio_get_u16;
+		file_io->get_u32        = fileio_get_u32;
+		file_io->get_byte_array = fileio_get_byte_array;
+		file_io->seek_pos       = fileio_seek_pos;
+		file_io->get_pos        = fileio_get_pos;
+		file_io->eof_reached    = fileio_eof_reached;
+		file_io->close          = fileio_close;
+		xm_loader_set_fileio(file_io);
+		
+		// ChibiXM Mixer
+		xm_create_software_mixer(44000, 32);		
+
+		// Now the bullshit ??
+		OSStatus status;
+		
+		// Describe audio component
+		AudioComponentDescription desc;
+		desc.componentType         = kAudioUnitType_Output;
+		desc.componentSubType      = kAudioUnitSubType_RemoteIO;
+		desc.componentFlags        = 0;
+		desc.componentFlagsMask    = 0;
+		desc.componentManufacturer = kAudioUnitManufacturer_Apple;
+		
+		// Get component
+		AudioComponent inputComponent = AudioComponentFindNext(NULL, &desc);
+		
+		// Get audio units
+		status = AudioComponentInstanceNew(inputComponent, &m_audio_unit);
+		
+		UInt32 flag = 1;
+		
+		// Enable IO for playback
+		status = AudioUnitSetProperty(m_audio_unit, 
+									  kAudioOutputUnitProperty_EnableIO, 
+									  kAudioUnitScope_Output, 
+									  kOutputBus,
+									  &flag, 
+									  sizeof(flag));
+		
+		// Describe format
+		AudioStreamBasicDescription audioFormat;
+		audioFormat.mSampleRate       = SAMPLE_RATE;
+		audioFormat.mFormatID	      = kAudioFormatLinearPCM;
+		audioFormat.mFormatFlags      = kAudioFormatFlagIsSignedInteger | kAudioFormatFlagIsPacked;
+		audioFormat.mFramesPerPacket  = 1;
+		audioFormat.mChannelsPerFrame = 2;
+		audioFormat.mBitsPerChannel   = 16;
+		audioFormat.mBytesPerPacket   = 4;
+		audioFormat.mBytesPerFrame    = 4;
+		
+		// Apply format
+		status = AudioUnitSetProperty(m_audio_unit, 
+									  kAudioUnitProperty_StreamFormat, 
+									  kAudioUnitScope_Input, 
+									  kOutputBus, 
+									  &audioFormat, 
+									  sizeof(audioFormat));
+		
+		// Set output callback
+		AURenderCallbackStruct callbackStruct;
+		callbackStruct.inputProc       = playbackCallback;
+		callbackStruct.inputProcRefCon = self;
+		status = AudioUnitSetProperty(m_audio_unit, 
+									  kAudioUnitProperty_SetRenderCallback, 
+									  kAudioUnitScope_Global, 
+									  kOutputBus,
+									  &callbackStruct, 
+									  sizeof(callbackStruct));
+		
+		// Initialize
+		status = AudioUnitInitialize(m_audio_unit);
+		
+		
+	}
+	
+	return self;
+}
+
+-(void)play:(XMFile*)xm
+{
+	AudioOutputUnitStart(m_audio_unit);
+	xm_player_set_song(xm.data);
+	xm_player_play();
+}
+
+-(void)stop
+{
+	AudioOutputUnitStop(m_audio_unit);
+	xm_player_stop();
+}
+
+
+
+@end

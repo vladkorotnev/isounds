@@ -1,0 +1,46 @@
+#import "XMFile.h"
+
+@implementation XMFile
+
+@synthesize data = m_song;
+
+-(id)initWithName:(NSString*)name
+{
+	if((self = [super init]) != nil)
+	{
+		m_song = xm_song_alloc();
+
+		XM_LoaderError song_error = xm_loader_open_song([name cStringUsingEncoding:NSASCIIStringEncoding], m_song);
+		switch (song_error) 
+		{
+			case XM_LOADER_OK:                      LOG  (@"Loaded Song OK\n"); break;
+			case XM_LOADER_UNCONFIGURED:            ERROR(@"Loader Error: Unconfigured\n"); break;
+			case XM_LOADER_ERROR_FILEIO_IN_USE:     ERROR(@"Loader Error: File in Use\n"); break;
+			case XM_LOADER_ERROR_FILE_CANT_OPEN:    ERROR(@"Loader Error: Can't Open\n"); break;
+			case XM_LOADER_ERROR_FILE_UNRECOGNIZED: ERROR(@"Loader Error: File Unrecognized\n"); break;
+			case XM_LOADER_ERROR_OUT_OF_MEMORY:     ERROR(@"Loader Error: Out of Memory\n"); break;
+			case XM_LOADER_ERROR_FILE_CORRUPT:      ERROR(@"Loader Error: File is Corrupted\n"); break;	
+		}
+
+		if (song_error) {
+			xm_song_free(m_song);
+			[self release];
+			return nil;
+		}
+	}
+	
+	return self;
+}
+
+-(void)dealloc
+{
+	if(m_song != NULL) {
+		xm_song_free(m_song);
+		m_song = NULL;
+	}
+	
+	[super dealloc];
+}
+
+
+@end

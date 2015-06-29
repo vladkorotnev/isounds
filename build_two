@@ -1,0 +1,23 @@
+rm *.deb
+mv Tweak.xm Tweak.xx
+echo '#define __BETA__' > Tweak.xm
+cat Tweak.xx >> Tweak.xm
+cp Makefile-beta Makefile
+make clean
+rm -rf layout/Applications/iSounds.app
+cp -r Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphoneos/soundthememanager.app layout/Applications/iSounds.app
+make package
+mv com.vladkorotnev*.deb isounds.deb
+rm Makefile
+rm Tweak.xm
+mv Tweak.xx Tweak.xm
+
+cp Makefile-release Makefile
+make clean
+rm -rf layout/Applications/iSounds.app
+cp -r Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Release-iphoneos/soundthememanager.app layout/Applications/iSounds.app
+make package
+mv com.vladkorotnev*.deb isounds-release.deb
+rm Makefile
+
+chmod 777 Tweak.xm

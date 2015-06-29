@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>iG33kstas iSounds</string>
+	<key>TitleImg</key>
+	<string>http://isoundsrepo.ig33kstas.com/logo.png</string>
+	<key>FooterImg</key>
+	<string>http://isoundsrepo.ig33kstas.com/bottom.png</string>
+	<key>gadpub</key>
+	<string>a14ea56d62b415a</string>	
+	<key>AvailSounds</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Elements</string>
+			<key>URL</key>
+			<string>http://isoundsrepo.ig33kstas.com/packages/Elements.zip</string>
+		</dict>
+        <dict>
+			<key>Name</key>
+			<string>GLaDOS (Portal)</string>
+			<key>URL</key>
+			<string>http://isoundsrepo.ig33kstas.com/packages/GLaDOS.zip</string>
+		</dict>			
+		<dict>
+			<key>Name</key>
+			<string>Angry Birds</string>
+			<key>URL</key>
+			<string>http://isoundsrepo.ig33kstas.com/packages/AngryBirds.zip</string>
+		</dict>	
+		<dict>
+			<key>Name</key>
+			<string>The HUD</string>
+			<key>URL</key>
+			<string>http://isoundsrepo.ig33kstas.com/packages/HUD.zip</string>
+		</dict>	
+		<dict>
+			<key>Name</key>
+			<string>Gamer Sounds</string>
+			<key>URL</key>
+			<string>http://isoundsrepo.ig33kstas.com/packages/GamerSounds.zip</string>
+		</dict>	
+		<dict>
+			<key>Name</key>
+			<string>Aaronious</string>
+			<key>URL</key>
+			<string>http://isoundsrepo.ig33kstas.com/packages/Aaronious.zip</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>HighTones</string>
+			<key>URL</key>
+			<string>http://isoundsrepo.ig33kstas.com/packages/HighTones.zip</string>
+		</dict>			
+	</array>
+</dict>
+</plist>

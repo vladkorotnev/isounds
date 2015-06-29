@@ -1,0 +1,1187 @@
+Tsoundthememanager
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Info.plist /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/soundthememanager-Info.plist
+cCopyStringsFile /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/en.lproj/InfoPlist.strings soundthememanager/en.lproj/InfoPlist.strings
+cCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/en.lproj/MainWindow.xib
+cCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/MainView.xib
+cCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/FlipsideView.xib
+cCpResource icon-retina.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-retina.png
+cCpResource icon.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon.png
+cCpResource icon-ipad.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-ipad.png
+cCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/OpenOtherRepoView.xib
+cCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/DownloadView.xib
+cCpResource soundthememanager/macdays.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/macdays.png
+cCpResource btnapplelong.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplelong.png
+cCpResource btnapplepresslong.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepresslong.png
+cCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/AboutVC.xib
+cCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Previewer.xib
+cCpResource soundthememanager/switcher_on.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/switcher_on.png
+cCpResource soundthememanager/switcher_off.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/switcher_off.png
+cCpResource soundthememanager/lockpod_off.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/lockpod_off.png
+cCpResource soundthememanager/lockpod_on.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/lockpod_on.png
+cCpResource icon-unins.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-unins.png
+cCpResource soundthememanager/sound.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/sound.png
+cCpResource soundthememanager/air.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/air.png
+cCpResource soundthememanager/dir.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/dir.png
+cCpResource soundthememanager/diropen.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/diropen.png
+cCpResource soundthememanager/Screenshot\ 2011.10.23\ 14.54.36.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Screenshot\ 2011.10.23\ 14.54.36.png
+cCpResource btnappleleft.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnappleleft.png
+cCpResource btnapplepressleft.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepressleft.png
+cCpResource btnapplepressright.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepressright.png
+cCpResource btnappleright.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnappleright.png
+cCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Piracy.xib
+cCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/CyStoreCheck.xib
+cCpResource btnapple.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapple.png
+cCpResource btnapplepress.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepress.png
+cCpResource SBBadgeExclamation.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SBBadgeExclamation.png
+cCpResource SBBadgeExclamation@2x.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SBBadgeExclamation@2x.png
+cCpResource AppleLogo.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/AppleLogo.png
+cCpResource AppleLogo@2x.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/AppleLogo@2x.png
+cCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/SoundCombinator.xib
+cCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/SoundSetChooser.xib
+cCopyPlistFile /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SoundList.plist soundthememanager/SoundList.plist
+cCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/TextInput.xib
+cCpResource soundthememanager/Music1.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music1.xm
+cCpResource soundthememanager/Music2.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music2.xm
+cCpResource soundthememanager/Music3.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music3.xm
+cCpResource soundthememanager/Music4.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music4.xm
+cCpResource soundthememanager/Music5.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music5.xm
+cCpResource soundthememanager/Music6.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music6.xm
+cCpResource soundthememanager/Music7.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music7.xm
+cCpResource soundthememanager/Music8.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music8.xm
+cTouch /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/AboutVC.xib
+c0000000050E578BE000000000005B216
+t1357215934
+s373270
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/AppleLogo.png
+c000000004E5C5DA20000000000001B2D
+t1314676130
+s6957
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/AppleLogo@2x.png
+c000000004E5C5DA20000000000003B52
+t1314676130
+s15186
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app
+t1397403755
+s1734
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/AboutVC.nib
+t1397403755
+s4995
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/AppleLogo.png
+t1397403755
+s6957
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/AppleLogo@2x.png
+t1397403755
+s15186
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/CyStoreCheck.nib
+t1397403755
+s2051
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/DownloadView.nib
+t1397403755
+s4146
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/FlipsideView.nib
+t1397403755
+s3349
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Info.plist
+t1397403755
+s1223
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/MainView.nib
+t1397403755
+s4842
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music1.xm
+t1397403755
+s16799
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music2.xm
+t1397403755
+s69494
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music3.xm
+t1397403755
+s23924
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music4.xm
+t1397403755
+s71656
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music5.xm
+t1397403755
+s37464
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music6.xm
+t1397403755
+s242483
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music7.xm
+t1397403755
+s51112
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music8.xm
+t1397403755
+s25943
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/OpenOtherRepoView.nib
+t1397403755
+s1969
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Piracy.nib
+t1397403755
+s3886
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/PkgInfo
+t1397403755
+s8
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Previewer.nib
+t1397403755
+s6444
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SBBadgeExclamation.png
+t1397403755
+s1592
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SBBadgeExclamation@2x.png
+t1397403755
+s3418
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Screenshot 2011.10.23 14.54.36.png
+t1397403755
+s7297
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SoundCombinator.nib
+t1397403755
+s3413
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SoundList.plist
+t1397403755
+s1255
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SoundSetChooser.nib
+t1397403755
+s1820
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/TextInput.nib
+t1397403755
+s2705
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/air.png
+t1397403755
+s16085
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapple.png
+t1397403755
+s1328
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnappleleft.png
+t1397403755
+s1587
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplelong.png
+t1397403755
+s1707
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepress.png
+t1397403755
+s1461
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepressleft.png
+t1397403755
+s1440
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepresslong.png
+t1397403755
+s1375
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepressright.png
+t1397403755
+s1458
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnappleright.png
+t1397403755
+s1576
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/dir.png
+t1397403755
+s25906
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/diropen.png
+t1397403755
+s237853
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/en.lproj/InfoPlist.strings
+t1397403755
+s42
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/en.lproj/MainWindow.nib
+t1397403755
+s1292
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-ipad.png
+t1397403755
+s5527
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-retina.png
+t1397403755
+s7436
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-unins.png
+t1397403755
+s14239
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon.png
+t1397403755
+s4859
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/lockpod_off.png
+t1397403755
+s17263
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/lockpod_on.png
+t1397403755
+s19316
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/macdays.png
+t1397403755
+s847914
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/sound.png
+t1397403755
+s17091
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/switcher_off.png
+t1397403755
+s187644
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/switcher_on.png
+t1397403755
+s197296
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/SBBadgeExclamation.png
+c000000004E5C5DA20000000000000638
+t1314676130
+s1592
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/SBBadgeExclamation@2x.png
+c000000004E5C5DA20000000000000D5A
+t1314676130
+s3418
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/SoundCombinator.xib
+c000000004F02EE9A00000000000C82CC
+t1325592218
+s819916
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/btnapple.png
+c000000004E91931C0000000000000530
+t1318163228
+s1328
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/btnappleleft.png
+c000000004E788D390000000000000633
+t1316523321
+s1587
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/btnapplelong.png
+c000000004E788EAD00000000000006AB
+t1316523693
+s1707
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/btnapplepress.png
+c000000004E9193A100000000000005B5
+t1318163361
+s1461
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/btnapplepressleft.png
+c000000004E788D3B00000000000005A0
+t1316523323
+s1440
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/btnapplepresslong.png
+c000000004E788F31000000000000055F
+t1316523825
+s1375
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/btnapplepressright.png
+c000000004E788D3D00000000000005B2
+t1316523325
+s1458
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/btnappleright.png
+c000000004E788D3F0000000000000628
+t1316523327
+s1576
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/icon-ipad.png
+c000000004E887F720000000000001597
+t1317568370
+s5527
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/icon-retina.png
+c000000004E887F5F0000000000001D0C
+t1317568351
+s7436
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/icon-unins.png
+c000000004EA3C69C000000000000379F
+t1319356060
+s14239
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/icon.png
+c000000004E887F8400000000000012FB
+t1317568388
+s4859
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/CyStoreCheck.xib
+c000000004EB6AD8A000000000000249C
+t1320594826
+s9372
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/DownloadView.xib
+c000000004EA19EBB0000000000004FE8
+t1319214779
+s20456
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/FlipsideView.xib
+c0000000050E57E6500000000000C7881
+t1357217381
+s817281
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/MainView.xib
+c000000004F02EEF30000000000122BDD
+t1325592307
+s1190877
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Music1.xm
+c0000000045402F96000000000000419F
+t1161834390
+s16799
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Music2.xm
+c000000004CDC33EE0000000000010F76
+t1289499630
+s69494
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Music3.xm
+c00000000472B21300000000000005D74
+t1194008880
+s23924
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Music4.xm
+c000000004937AA7600000000000117E8
+t1228384886
+s71656
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Music5.xm
+c00000000472B21320000000000009258
+t1194008882
+s37464
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Music6.xm
+c00000000472B2134000000000003B333
+t1194008884
+s242483
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Music7.xm
+c000000004CC08F20000000000000C7A8
+t1287687968
+s51112
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Music8.xm
+c000000004CAE79360000000000006557
+t1286502710
+s25943
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/OpenOtherRepoView.xib
+c000000004EBBFB8C0000000000003F58
+t1320942476
+s16216
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Piracy.xib
+c000000004EB6B6AB000000000000527F
+t1320597163
+s21119
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Previewer.xib
+c0000000050E577D000000000000CC2B6
+t1357215696
+s836278
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Screenshot 2011.10.23 14.54.36.png
+c000000004EA3D6B60000000000001C81
+t1319360182
+s7297
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/SoundList.plist
+c000000004EDCFA380000000000000D97
+t1323104824
+s3479
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/SoundSetChooser.xib
+c000000004EDCF3EE0000000000003153
+t1323103214
+s12627
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/TextInput.xib
+c000000004EDCE7FC00000000000040A1
+t1323100156
+s16545
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/air.png
+c000000004EA3CC230000000000003ED5
+t1319357475
+s16085
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/dir.png
+c000000004EA3D2090000000000006532
+t1319358985
+s25906
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/diropen.png
+c000000004EA3D2E9000000000003A11D
+t1319359209
+s237853
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/en.lproj/InfoPlist.strings
+c000000004E242B32000000000000002D
+t1310993202
+s45
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/en.lproj/MainWindow.xib
+c000000004E242B3200000000000050B0
+t1310993202
+s20656
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/lockpod_off.png
+c000000004EA3ADED000000000000436F
+t1319349741
+s17263
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/lockpod_on.png
+c000000004EA3AE1D0000000000004B74
+t1319349789
+s19316
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/macdays.png
+c000000004E6C515D00000000000CF02A
+t1315721565
+s847914
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/sound.png
+c000000004EA3C7BB00000000000042C3
+t1319356347
+s17091
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/soundthememanager-Info.plist
+c000000004EDE0D970000000000000793
+t1323175319
+s1939
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/switcher_off.png
+c000000004EA3AD1D000000000002DCFC
+t1319349533
+s187644
+
+N/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/switcher_on.png
+c000000004EA3AD7C00000000000302B0
+t1319349628
+s197296
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/AboutVC.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/AudioMaster.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/SoundCombinator.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Audio/ChibiXM.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Audio/ChibiXM/xmplay.c
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Audio/XMFile.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Audio/XMSample.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Classes/ASIAuthenticationDialog.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Classes/ASIDataCompressor.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Classes/ASIDataDecompressor.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Classes/ASIDownloadCache.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Classes/ASIFormDataRequest.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Classes/ASIHTTPRequest.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Classes/ASIInputStream.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Classes/ASINetworkQueue.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Classes/Reachability/Reachability.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/CyStoreCheck.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/DownloadView.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/EAGLView.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/ES1Renderer.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/ES2Renderer.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/EncryptionModule.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/FlipsideViewController.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/MainViewController.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/OpenOtherRepoView.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Piracy.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Previewer.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/SoundSetChooser.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/TextInput.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/main.m
+r0
+
+C<com.apple.compilers.llvmgcc42> [output] /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/soundthememanagerAppDelegate.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/AboutVC.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/AudioMaster.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/SoundCombinator.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Audio/ChibiXM.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Audio/ChibiXM/xmplay.c
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Audio/XMFile.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Audio/XMSample.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Classes/ASIAuthenticationDialog.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Classes/ASIDataCompressor.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Classes/ASIDataDecompressor.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Classes/ASIDownloadCache.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Classes/ASIFormDataRequest.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Classes/ASIHTTPRequest.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Classes/ASIInputStream.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Classes/ASINetworkQueue.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Classes/Reachability/Reachability.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/CyStoreCheck.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/DownloadView.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/EAGLView.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/ES1Renderer.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/ES2Renderer.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/EncryptionModule.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/FlipsideViewController.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/MainViewController.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/OpenOtherRepoView.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Piracy.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Previewer.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/SoundSetChooser.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/TextInput.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/main.m
+r0
+
+CBuild AST from /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/soundthememanagerAppDelegate.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies61a9feeae7fab841^fbc924ebe7fab841^---0#1#1#--18"Check dependencies36"D93D9BAF-75C7-49FE-8A60-85149DAF4280-
+
+CCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/AboutVC.xib
+s419096555.214186
+e419096555.271966
+r1
+xCompileXIB
+x/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/AboutVC.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compiling /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/AboutVC.xib22"CompileXIB AboutVC.xib66f536ebe7fab841^7ba045ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/AboutVC.xib0000000000000000^844"CompileXIB AboutVC.xib    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/AboutVC.nib /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/AboutVC.xib36"C708FECE-DCE5-4F66-A518-0FC9C7349991-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/SoundCombinator.xib
+s419096555.285873
+e419096555.355319
+r1
+xCompileXIB
+x/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/SoundCombinator.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compiling /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/SoundCombinator.xib30"CompileXIB SoundCombinator.xib684049ebe7fab841^a9855eebe7fab841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/SoundCombinator.xib0000000000000000^868"CompileXIB SoundCombinator.xib    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SoundCombinator.nib /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/SoundCombinator.xib36"745E121D-4D50-4ACC-800C-D9C4856B831B-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/CyStoreCheck.xib
+s419096555.273744
+e419096555.304913
+r1
+xCompileXIB
+x/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/CyStoreCheck.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compiling /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/CyStoreCheck.xib45"CompileXIB soundthememanager/CyStoreCheck.xibf12b46ebe7fab841^47b051ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/CyStoreCheck.xib0000000000000000^895"CompileXIB soundthememanager/CyStoreCheck.xib    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/CyStoreCheck.nib /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/CyStoreCheck.xib36"305CAA8C-C88E-47EE-9E3D-8ABD2631F159-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/DownloadView.xib
+s419096555.183678
+e419096555.251074
+r1
+xCompileXIB
+x/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/DownloadView.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compiling /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/DownloadView.xib45"CompileXIB soundthememanager/DownloadView.xib48172febe7fab841^564940ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/DownloadView.xib0000000000000000^895"CompileXIB soundthememanager/DownloadView.xib    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/DownloadView.nib /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/DownloadView.xib36"D8701038-2070-4722-9215-32ACC6F86F56-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/FlipsideView.xib
+s419096555.148091
+e419096555.213858
+r1
+xCompileXIB
+x/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/FlipsideView.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compiling /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/FlipsideView.xib45"CompileXIB soundthememanager/FlipsideView.xib640626ebe7fab841^dcf639ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/FlipsideView.xib0000000000000000^895"CompileXIB soundthememanager/FlipsideView.xib    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/FlipsideView.nib /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/FlipsideView.xib36"4EEA02EF-87AC-4667-929F-E7BEEF36E915-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/MainView.xib
+s419096555.147995
+e419096555.261333
+r1
+xCompileXIB
+x/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/MainView.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compiling /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/MainView.xib41"CompileXIB soundthememanager/MainView.xib560d26ebe7fab841^548f44ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/MainView.xib0000000000000000^883"CompileXIB soundthememanager/MainView.xib    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/MainView.nib /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/MainView.xib36"1580F5BB-83D9-4BEE-9564-1C182C6B46E4-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/OpenOtherRepoView.xib
+s419096555.154913
+e419096555.207479
+r1
+xCompileXIB
+x/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/OpenOtherRepoView.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compiling /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/OpenOtherRepoView.xib50"CompileXIB soundthememanager/OpenOtherRepoView.xibbaba27ebe7fab841^68e639ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/OpenOtherRepoView.xib0000000000000000^910"CompileXIB soundthememanager/OpenOtherRepoView.xib    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/OpenOtherRepoView.nib /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/OpenOtherRepoView.xib36"37AEE804-F029-4AE7-88FF-BDE85CD00A64-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Piracy.xib
+s419096555.273238
+e419096555.333801
+r1
+xCompileXIB
+x/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Piracy.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compiling /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Piracy.xib39"CompileXIB soundthememanager/Piracy.xib214046ebe7fab841^f62656ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Piracy.xib0000000000000000^877"CompileXIB soundthememanager/Piracy.xib    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Piracy.nib /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Piracy.xib36"77C48423-5062-4061-B517-08FC3B027797-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Previewer.xib
+s419096555.215666
+e419096555.392722
+r1
+xCompileXIB
+x/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Previewer.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compiling /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Previewer.xib42"CompileXIB soundthememanager/Previewer.xibdc4637ebe7fab841^2f4f67ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Previewer.xib0000000000000000^886"CompileXIB soundthememanager/Previewer.xib    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Previewer.nib /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Previewer.xib36"A7BC8383-42FD-4EA1-8FAB-79135D0D88AB-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/SoundSetChooser.xib
+s419096555.306142
+e419096555.345977
+r1
+xCompileXIB
+x/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/SoundSetChooser.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compiling /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/SoundSetChooser.xib48"CompileXIB soundthememanager/SoundSetChooser.xibf7734eebe7fab841^fb5b5aebe7fab841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/SoundSetChooser.xib0000000000000000^904"CompileXIB soundthememanager/SoundSetChooser.xib    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SoundSetChooser.nib /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/SoundSetChooser.xib36"084AFC59-0EEA-4FC5-8081-2E5652C40A56-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/TextInput.xib
+s419096555.337973
+e419096555.378353
+r1
+xCompileXIB
+x/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/TextInput.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compiling /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/TextInput.xib42"CompileXIB soundthememanager/TextInput.xib48dd56ebe7fab841^16a362ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/TextInput.xib0000000000000000^886"CompileXIB soundthememanager/TextInput.xib    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/TextInput.nib /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/TextInput.xib36"F6977DA4-DD14-45A5-A6D4-0B1BA9EBC066-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCompileXIB /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/en.lproj/MainWindow.xib
+s419096555.146785
+e419096555.182562
+r1
+xCompileXIB
+x/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/en.lproj/MainWindow.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compiling /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/en.lproj/MainWindow.xib52"CompileXIB soundthememanager/en.lproj/MainWindow.xibb2d925ebe7fab841^5bb62eebe7fab841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/en.lproj/MainWindow.xib0000000000000000^916"CompileXIB soundthememanager/en.lproj/MainWindow.xib    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/en.lproj/MainWindow.nib /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/en.lproj/MainWindow.xib36"01BF6DB0-F55D-42F1-BD73-DAD74D301D06-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCopyPlistFile /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SoundList.plist soundthememanager/SoundList.plist
+s419096555.335231
+e419096555.336769
+r1
+xCopyPlistFile
+x/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SoundList.plist
+xsoundthememanager/SoundList.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Copy soundthememanager/SoundList.plist152"CopyPlistFile DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SoundList.plist soundthememanager/SoundList.plist6ced55ebe7fab841^3b8b56ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/SoundList.plist0000000000000000^664"CopyPlistFile DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SoundList.plist soundthememanager/SoundList.plist    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyPlist --convert binary1 --outdir /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app -- soundthememanager/SoundList.plist36"BB412E0F-055F-4CBA-90D2-20DD3ECB8467-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCopyStringsFile /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/en.lproj/InfoPlist.strings soundthememanager/en.lproj/InfoPlist.strings
+s419096555.146328
+e419096555.148208
+r1
+xCopyStringsFile
+x/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/en.lproj/InfoPlist.strings
+xsoundthememanager/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy soundthememanager/en.lproj/InfoPlist.strings176"CopyStringsFile DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/en.lproj/InfoPlist.strings soundthememanager/en.lproj/InfoPlist.strings698d25ebe7fab841^bff125ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/en.lproj/InfoPlist.strings0000000000000000^749"CopyStringsFile DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/en.lproj/InfoPlist.strings soundthememanager/en.lproj/InfoPlist.strings    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/en.lproj -- soundthememanager/en.lproj/InfoPlist.strings36"64004954-D03F-4F21-96AD-DED8AECE6E15-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource AppleLogo.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/AppleLogo.png
+s419096555.283486
+e419096555.284409
+r1
+xCpResource
+xAppleLogo.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/AppleLogo.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/AppleLogo.png127"CpResource AppleLogo.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/AppleLogo.png1ea348ebe7fab841^30d64bebe7fab841^---0#0#1#-19%DVTDocumentLocation2@176"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/AppleLogo.png0034704edfffdf42^746"CpResource AppleLogo.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/AppleLogo.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/AppleLogo.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"B0370939-1BFB-4762-BDDD-59CF7E7F4B82-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource AppleLogo@2x.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/AppleLogo@2x.png
+s419096555.284702
+e419096555.285745
+r1
+xCpResource
+xAppleLogo@2x.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/AppleLogo@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/AppleLogo@2x.png133"CpResource AppleLogo@2x.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/AppleLogo@2x.pngf4f948ebe7fab841^a5da4bebe7fab841^---0#0#1#-19%DVTDocumentLocation2@179"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/AppleLogo@2x.png0034704edfffdf42^755"CpResource AppleLogo@2x.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/AppleLogo@2x.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/AppleLogo@2x.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"C144FED0-8FEE-40DE-9E99-A9C4A61B52CD-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource SBBadgeExclamation.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SBBadgeExclamation.png
+s419096555.277531
+e419096555.279180
+r1
+xCpResource
+xSBBadgeExclamation.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SBBadgeExclamation.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SBBadgeExclamation.png145"CpResource SBBadgeExclamation.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SBBadgeExclamation.png971c47ebe7fab841^e2cc4bebe7fab841^---0#0#1#-19%DVTDocumentLocation2@185"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SBBadgeExclamation.png0034704edfffdf42^773"CpResource SBBadgeExclamation.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SBBadgeExclamation.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/SBBadgeExclamation.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"82B43F8B-F947-4C11-860F-FDDE68F50136-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource SBBadgeExclamation@2x.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SBBadgeExclamation@2x.png
+s419096555.280561
+e419096555.282307
+r1
+xCpResource
+xSBBadgeExclamation@2x.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SBBadgeExclamation@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SBBadgeExclamation@2x.png151"CpResource SBBadgeExclamation@2x.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SBBadgeExclamation@2x.png7ee347ebe7fab841^abd14bebe7fab841^---0#0#1#-19%DVTDocumentLocation2@188"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SBBadgeExclamation@2x.png0034704edfffdf42^782"CpResource SBBadgeExclamation@2x.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/SBBadgeExclamation@2x.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/SBBadgeExclamation@2x.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"99B25245-1A52-45F3-A00A-90134292F5AA-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource btnapple.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapple.png
+s419096555.274089
+e419096555.275307
+r1
+xCpResource
+xbtnapple.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapple.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapple.png125"CpResource btnapple.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapple.png1d3946ebe7fab841^cac24bebe7fab841^---0#0#1#-19%DVTDocumentLocation2@175"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapple.png0034704edfffdf42^743"CpResource btnapple.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapple.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/btnapple.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"5E6D8809-AF1A-4C7D-844B-7B1EE39FBBFD-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource btnappleleft.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnappleleft.png
+s419096555.270567
+e419096555.271950
+r1
+xCpResource
+xbtnappleleft.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnappleleft.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnappleleft.png133"CpResource btnappleleft.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnappleleft.pngc55945ebe7fab841^fe9945ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@179"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnappleleft.png0034704edfffdf42^755"CpResource btnappleleft.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnappleleft.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/btnappleleft.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"3CE6CD36-ED2E-4192-94EF-83AF43894A1D-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource btnapplelong.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplelong.png
+s419096555.209873
+e419096555.212017
+r1
+xCpResource
+xbtnapplelong.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplelong.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplelong.png133"CpResource btnapplelong.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplelong.png8eca35ebe7fab841^1cf039ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@179"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplelong.png0034704edfffdf42^755"CpResource btnapplelong.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplelong.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/btnapplelong.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"A49D178D-D67D-4571-9D73-797DF0063FFF-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource btnapplepress.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepress.png
+s419096555.276174
+e419096555.277238
+r1
+xCpResource
+xbtnapplepress.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepress.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepress.png135"CpResource btnapplepress.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepress.png82c446ebe7fab841^6dc84bebe7fab841^---0#0#1#-19%DVTDocumentLocation2@180"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepress.png0034704edfffdf42^758"CpResource btnapplepress.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepress.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/btnapplepress.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"3A6AC881-3BE8-4DBA-B88C-4DE0EB0A2F5E-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource btnapplepressleft.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepressleft.png
+s419096555.271682
+e419096555.273084
+r1
+xCpResource
+xbtnapplepressleft.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepressleft.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepressleft.png143"CpResource btnapplepressleft.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepressleft.pngffb045ebe7fab841^271446ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@184"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepressleft.png0034704edfffdf42^770"CpResource btnapplepressleft.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepressleft.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/btnapplepressleft.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"1ABE3045-95CA-4AD6-94DA-49F581E0F4E3-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource btnapplepresslong.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepresslong.png
+s419096555.212146
+e419096555.212982
+r1
+xCpResource
+xbtnapplepresslong.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepresslong.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepresslong.png143"CpResource btnapplepresslong.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepresslong.png425f36ebe7fab841^1bf439ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@184"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepresslong.png0034704edfffdf42^770"CpResource btnapplepresslong.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepresslong.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/btnapplepresslong.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"DBC60496-D3B5-4096-8273-89A959BD4242-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource btnapplepressright.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepressright.png
+s419096555.272316
+e419096555.273316
+r1
+xCpResource
+xbtnapplepressright.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepressright.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepressright.png145"CpResource btnapplepressright.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepressright.png32cc45ebe7fab841^6d1f46ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@185"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepressright.png0034704edfffdf42^773"CpResource btnapplepressright.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnapplepressright.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/btnapplepressright.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"DBD5C244-82CB-447F-B375-705AFAD92610-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource btnappleright.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnappleright.png
+s419096555.272815
+e419096555.273638
+r1
+xCpResource
+xbtnappleright.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnappleright.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnappleright.png135"CpResource btnappleright.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnappleright.pnge2e545ebe7fab841^422546ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@180"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnappleright.png0034704edfffdf42^758"CpResource btnappleright.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/btnappleright.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/btnappleright.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"D829309A-65D0-43FE-A29A-8BD51C3BBC7B-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource icon-ipad.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-ipad.png
+s419096555.152383
+e419096555.154764
+r1
+xCpResource
+xicon-ipad.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-ipad.png127"CpResource icon-ipad.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-ipad.png8a5927ebe7fab841^239f27ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@176"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-ipad.png0034704edfffdf42^746"CpResource icon-ipad.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-ipad.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/icon-ipad.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"3A1C7876-19DE-437D-AA44-2207718198ED-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource icon-retina.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-retina.png
+s419096555.148370
+e419096555.150534
+r1
+xCpResource
+xicon-retina.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-retina.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-retina.png131"CpResource icon-retina.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-retina.pngf41726ebe7fab841^3e7b26ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@178"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-retina.png0034704edfffdf42^752"CpResource icon-retina.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-retina.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/icon-retina.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"3ACCE4B9-5CFF-440C-B732-F4B5172164B7-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource icon-unins.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-unins.png
+s419096555.261850
+e419096555.264226
+r1
+xCpResource
+xicon-unins.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-unins.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-unins.png129"CpResource icon-unins.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-unins.png705b43ebe7fab841^209744ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@177"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-unins.png0034704edfffdf42^749"CpResource icon-unins.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon-unins.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/icon-unins.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"D08D4E49-6535-4CBA-80D2-31C375AEBD3E-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource icon.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon.png
+s419096555.150688
+e419096555.152210
+r1
+xCpResource
+xicon.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon.png117"CpResource icon.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon.pngb6a126ebe7fab841^280f27ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@171"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon.png0034704edfffdf42^731"CpResource icon.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/icon.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/icon.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"87A60CB5-054B-4F23-B29E-07EBF9E5F75C-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource soundthememanager/Music1.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music1.xm
+s419096555.348330
+e419096555.349572
+r1
+xCpResource
+xsoundthememanager/Music1.xm
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music1.xm
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music1.xm137"CpResource soundthememanager/Music1.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music1.xm814259ebe7fab841^39615aebe7fab841^---0#0#1#-19%DVTDocumentLocation2@172"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music1.xm0034704edfffdf42^770"CpResource soundthememanager/Music1.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music1.xm    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Music1.xm /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"2197E587-4F71-484F-820C-F03A6F136B5F-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource soundthememanager/Music2.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music2.xm
+s419096555.349703
+e419096555.350669
+r1
+xCpResource
+xsoundthememanager/Music2.xm
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music2.xm
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music2.xm137"CpResource soundthememanager/Music2.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music2.xmff9559ebe7fab841^66665aebe7fab841^---0#0#1#-19%DVTDocumentLocation2@172"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music2.xm0034704edfffdf42^770"CpResource soundthememanager/Music2.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music2.xm    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Music2.xm /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"4C7981C1-8FAC-4836-8451-7A67D6428453-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource soundthememanager/Music3.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music3.xm
+s419096555.351083
+e419096555.354173
+r1
+xCpResource
+xsoundthememanager/Music3.xm
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music3.xm
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music3.xm137"CpResource soundthememanager/Music3.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music3.xm61355aebe7fab841^6f7f5eebe7fab841^---0#0#1#-19%DVTDocumentLocation2@172"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music3.xm0034704edfffdf42^770"CpResource soundthememanager/Music3.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music3.xm    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Music3.xm /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"4968C770-64D7-4294-B75A-D4B7411D9C8F-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource soundthememanager/Music4.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music4.xm
+s419096555.354343
+e419096555.357350
+r1
+xCpResource
+xsoundthememanager/Music4.xm
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music4.xm
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music4.xm137"CpResource soundthememanager/Music4.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music4.xm7ac65aebe7fab841^ce885eebe7fab841^---0#0#1#-19%DVTDocumentLocation2@172"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music4.xm0034704edfffdf42^770"CpResource soundthememanager/Music4.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music4.xm    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Music4.xm /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"7E5BCAFB-6E94-43E4-AD0D-12AEBA298730-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource soundthememanager/Music5.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music5.xm
+s419096555.356924
+e419096555.357932
+r1
+xCpResource
+xsoundthememanager/Music5.xm
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music5.xm
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music5.xm137"CpResource soundthememanager/Music5.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music5.xm37705bebe7fab841^df8c5eebe7fab841^---0#0#1#-19%DVTDocumentLocation2@172"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music5.xm0034704edfffdf42^770"CpResource soundthememanager/Music5.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music5.xm    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Music5.xm /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"E92A85F1-217A-449F-992C-C20C70645E06-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource soundthememanager/Music6.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music6.xm
+s419096555.358069
+e419096555.359634
+r1
+xCpResource
+xsoundthememanager/Music6.xm
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music6.xm
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music6.xm137"CpResource soundthememanager/Music6.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music6.xm90bc5bebe7fab841^21915eebe7fab841^---0#0#1#-19%DVTDocumentLocation2@172"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music6.xm0034704edfffdf42^770"CpResource soundthememanager/Music6.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music6.xm    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Music6.xm /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"6C0871B5-4383-4F42-9A06-67509952B607-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource soundthememanager/Music7.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music7.xm
+s419096555.359607
+e419096555.363363
+r1
+xCpResource
+xsoundthememanager/Music7.xm
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music7.xm
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music7.xm137"CpResource soundthememanager/Music7.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music7.xm48a95cebe7fab841^20995eebe7fab841^---0#0#1#-19%DVTDocumentLocation2@172"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music7.xm0034704edfffdf42^770"CpResource soundthememanager/Music7.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music7.xm    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Music7.xm /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"C9AEADFA-A109-454E-80D6-CEE3BBCBA9DD-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource soundthememanager/Music8.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music8.xm
+s419096555.359792
+e419096555.360778
+r1
+xCpResource
+xsoundthememanager/Music8.xm
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music8.xm
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music8.xm137"CpResource soundthememanager/Music8.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music8.xmed2a5cebe7fab841^42955eebe7fab841^---0#0#1#-19%DVTDocumentLocation2@172"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music8.xm0034704edfffdf42^770"CpResource soundthememanager/Music8.xm DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Music8.xm    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Music8.xm /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"29A64D98-E65A-452F-9FF4-85AE9A8C524F-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource soundthememanager/Screenshot\ 2011.10.23\ 14.54.36.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Screenshot\ 2011.10.23\ 14.54.36.png
+s419096555.268853
+e419096555.270401
+r1
+xCpResource
+xsoundthememanager/Screenshot 2011.10.23 14.54.36.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Screenshot 2011.10.23 14.54.36.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Screenshot 2011.10.23 14.54.36.png191"CpResource soundthememanager/Screenshot\ 2011.10.23\ 14.54.36.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Screenshot\ 2011.10.23\ 14.54.36.pngb0e244ebe7fab841^516845ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@201"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Screenshot%202011.10.23%2014.54.36.png0034704edfffdf42^851"CpResource soundthememanager/Screenshot\ 2011.10.23\ 14.54.36.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Screenshot\ 2011.10.23\ 14.54.36.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/Screenshot\ 2011.10.23\ 14.54.36.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"8BF46FEB-D245-4B9B-8656-FBEE4916AD40-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource soundthememanager/air.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/air.png
+s419096555.264579
+e419096555.266111
+r1
+xCpResource
+xsoundthememanager/air.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/air.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/air.png133"CpResource soundthememanager/air.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/air.png64ce43ebe7fab841^4da044ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@170"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/air.png0034704edfffdf42^764"CpResource soundthememanager/air.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/air.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/air.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"BDCC298C-97AA-4D5F-B9D9-6AAE5725771B-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource soundthememanager/dir.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/dir.png
+s419096555.266082
+e419096555.267334
+r1
+xCpResource
+xsoundthememanager/dir.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/dir.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/dir.png133"CpResource soundthememanager/dir.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/dir.pngd63744ebe7fab841^37a544ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@170"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/dir.png0034704edfffdf42^764"CpResource soundthememanager/dir.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/dir.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/dir.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"C5B7D62D-068E-4344-960D-28738EEAF854-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource soundthememanager/diropen.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/diropen.png
+s419096555.268654
+e419096555.270818
+r1
+xCpResource
+xsoundthememanager/diropen.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/diropen.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/diropen.png141"CpResource soundthememanager/diropen.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/diropen.pnga30445ebe7fab841^3e9345ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@174"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/diropen.png0034704edfffdf42^776"CpResource soundthememanager/diropen.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/diropen.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/diropen.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"7E673D06-AEEE-47A7-8D28-54B01EF7A8A3-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource soundthememanager/lockpod_off.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/lockpod_off.png
+s419096555.256143
+e419096555.258496
+r1
+xCpResource
+xsoundthememanager/lockpod_off.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/lockpod_off.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/lockpod_off.png149"CpResource soundthememanager/lockpod_off.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/lockpod_off.pngd7a241ebe7fab841^e38944ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@178"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/lockpod_off.png0034704edfffdf42^788"CpResource soundthememanager/lockpod_off.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/lockpod_off.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/lockpod_off.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"D1FD5E12-CAEF-4452-80F9-448322A269E8-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource soundthememanager/lockpod_on.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/lockpod_on.png
+s419096555.258632
+e419096555.261662
+r1
+xCpResource
+xsoundthememanager/lockpod_on.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/lockpod_on.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/lockpod_on.png147"CpResource soundthememanager/lockpod_on.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/lockpod_on.png448942ebe7fab841^369244ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@177"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/lockpod_on.png0034704edfffdf42^785"CpResource soundthememanager/lockpod_on.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/lockpod_on.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/lockpod_on.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"F1A8BC66-CA5F-4936-BA3C-0256E72C28DB-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource soundthememanager/macdays.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/macdays.png
+s419096555.207630
+e419096555.209735
+r1
+xCpResource
+xsoundthememanager/macdays.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/macdays.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/macdays.png141"CpResource soundthememanager/macdays.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/macdays.pngd23735ebe7fab841^2dec39ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@174"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/macdays.png0034704edfffdf42^776"CpResource soundthememanager/macdays.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/macdays.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/macdays.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"BC950042-FD5D-4728-9F7E-7A9CFB404A3B-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource soundthememanager/sound.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/sound.png
+s419096555.262524
+e419096555.265957
+r1
+xCpResource
+xsoundthememanager/sound.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/sound.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/sound.png137"CpResource soundthememanager/sound.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/sound.png319443ebe7fab841^fa9b44ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@172"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/sound.png0034704edfffdf42^770"CpResource soundthememanager/sound.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/sound.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/sound.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"C6A65DB5-01C4-4B0C-A405-9FD3D8821E23-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource soundthememanager/switcher_off.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/switcher_off.png
+s419096555.252660
+e419096555.254887
+r1
+xCpResource
+xsoundthememanager/switcher_off.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/switcher_off.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/switcher_off.png151"CpResource soundthememanager/switcher_off.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/switcher_off.png790241ebe7fab841^4e4241ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@179"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/switcher_off.png0034704edfffdf42^791"CpResource soundthememanager/switcher_off.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/switcher_off.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/switcher_off.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"563AC3F6-9695-40CD-825C-54AE1916AEC1-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CCpResource soundthememanager/switcher_on.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/switcher_on.png
+s419096555.251220
+e419096555.252529
+r1
+xCpResource
+xsoundthememanager/switcher_on.png
+xDerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/switcher_on.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Copy DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/switcher_on.png149"CpResource soundthememanager/switcher_on.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/switcher_on.png466040ebe7fab841^70b340ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@178"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/switcher_on.png0034704edfffdf42^788"CpResource soundthememanager/switcher_on.png DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/switcher_on.png    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/switcher_on.png /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app36"957BDDFF-1729-426F-A42D-7B4346AA0AAA-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CProcessInfoPlistFile /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Info.plist /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/soundthememanager-Info.plist
+s419096555.144276
+e419096555.145528
+r1
+xProcessInfoPlistFile
+x/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Info.plist
+x/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/soundthememanager-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Process /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/soundthememanager-Info.plist167"ProcessInfoPlistFile DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Info.plist soundthememanager/soundthememanager-Info.plistf4f924ebe7fab841^ec8625ebe7fab841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/soundthememanager-Info.plist0000000000000000^988"ProcessInfoPlistFile DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Info.plist soundthememanager/soundthememanager-Info.plist    cd /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/soundthememanager-Info.plist -genpkginfo /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app/Info.plist36"2EE295A3-AF81-4293-BD7F-63ADA5786026-
+bAB24CF74-5EAA-4B43-8C11-419A62829A11
+
+CProcessPCH /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Index/PrecompiledHeaders/soundthememanager-Prefix-bswwevbthbicxjecwohefoeefcwl_ast/soundthememanager-Prefix.pch.pch soundthememanager/soundthememanager-Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Index/PrecompiledHeaders/soundthememanager-Prefix-ddewzwgsirdefsgqjjubcixlfnaw_ast/soundthememanager-Prefix.pch.pch soundthememanager/soundthememanager-Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Index/PrecompiledHeaders/soundthememanager-Prefix-gnnnrdszyaqtjafqphyhnljgegpc_ast/soundthememanager-Prefix.pch.pch soundthememanager/soundthememanager-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Index/PrecompiledHeaders/soundthememanager-Prefix-hekosmsgidjpkrcbyblgdyrmucpd_ast/soundthememanager-Prefix.pch.pch soundthememanager/soundthememanager-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphonesimulator/soundthememanager.app
+r0
+

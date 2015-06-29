@@ -1,0 +1,7 @@
+include theos/makefiles/common.mk
+
+TWEAK_NAME = UIFeedback
+UIFeedback_FILES = Tweak.xm SndDelegate.m AudioMaster.m EncryptionModule.m
+UIFeedback_FRAMEWORKS = AVFoundation Foundation AudioToolbox UIKit
+
+include $(THEOS_MAKE_PATH)/tweak.mk

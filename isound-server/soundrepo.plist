@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>iSounds Store</string>
+	<key>TitleImg</key>
+	<string>http://vladkorotnev.dyndns.org/isound/logo.png</string>
+	<key>FooterImg</key>
+	<string>http://vladkorotnev.dyndns.org/isound/bottom.png</string>
+	<key>gadpub</key>
+	<string>a14ea0203ce8900</string>
+	<key>AvailSounds</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Tapbots sounds</string>
+			<key>URL</key>
+			<string>http://vladkorotnev.dyndns.org/isound/packages/tapbots.zip</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Apple Newton</string>
+			<key>URL</key>
+			<string>http://vladkorotnev.dyndns.org/isound/packages/newttheme.zip</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Mac OS 9</string>
+			<key>URL</key>
+			<string>http://vladkorotnev.dyndns.org/isound/packages/os9.zip</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Lego Mindstorms NXT</string>
+			<key>URL</key>
+			<string>http://vladkorotnev.dyndns.org/isound/packages/lego.zip</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Windows XP</string>
+			<key>URL</key>
+			<string>http://vladkorotnev.dyndns.org/isound/packages/WinXP.zip</string>
+		</dict>
+	</array>
+	<key>FriendsRepos</key>
+	<array>
+		<dict>
+			<key>URL</key>
+			<string>%INFO%</string>
+			<key>Name</key>
+			<string>Make one and tell me :P</string>
+		</dict>
+	</array>
+</dict>
+</plist>

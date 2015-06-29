@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+<title>My RSS Feed</title><link>http://is0unds.tk/index.html</link><description>Hot News&#x21;</description><dc:language>en</dc:language><dc:date>2011-11-09T23:40:54+06:00</dc:date><admin:generatorAgent rdf:resource="http://www.realmacsoftware.com/" />
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+<lastBuildDate>ср, 9 нояб. 2011 23:41:36 +0600</lastBuildDate><item><title>iSounds TV ads</title><dc:subject>Videos</dc:subject><dc:date>2011-11-09T23:40:54+06:00</dc:date><link>http://is0unds.tk/blog-2/files/821a3a0c80b7fb77f94fd7388d29fd75-0.html#unique-entry-id-0</link><guid isPermaLink="true">http://is0unds.tk/blog-2/files/821a3a0c80b7fb77f94fd7388d29fd75-0.html#unique-entry-id-0</guid><content:encoded><![CDATA[Watch them under the break!]]></content:encoded></item></channel>
+</rss>

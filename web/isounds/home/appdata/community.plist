@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Repos</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Go here to submit your repo:</string>
+			<key>URL</key>
+			<string>%INFO%</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>http://isounds.tk</string>
+			<key>URL</key>
+			<string>%INFO%</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Official iSounds Store repo</string>
+			<key>URL</key>
+			<string>http://isounds.tk/appdata/soundrepo.plist</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>iG33kstas iSounds Repo</string>
+			<key>URL</key>
+			<string>http://isoundsrepo.ig33kstas.com/soundrepo.plist</string>
+		</dict>
+	</array>
+</dict>
+</plist>

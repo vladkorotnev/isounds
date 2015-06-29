@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>iSounds Store</string>
+	<key>TitleImg</key>
+	<string>http://isounds.tk/appdata/logo.png</string>
+	<key>FooterImg</key>
+	<string></string>
+	<key>gadpub</key>
+	<string></string>
+	<key>AvailSounds</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>iWindows 8</string>
+			<key>URL</key>
+			<string>http://isounds.tk/appdata/packages/w8.zip</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WP7 Inspired</string>
+			<key>URL</key>
+			<string>http://isounds.tk/appdata/packages/wp7inspired.zip</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Zelda</string>
+			<key>URL</key>
+			<string>http://isounds.tk/appdata/packages/zelda.zip</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Siri System Sounds</string>
+			<key>URL</key>
+			<string>http://isounds.tk/appdata/packages/siri.zip</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Dead Space</string>
+			<key>URL</key>
+			<string>http://isounds.tk/appdata/packages/deadspace.zip</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Tapbots sounds</string>
+			<key>URL</key>
+			<string>http://isounds.tk/appdata/packages/tapbots.zip</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Apple Newton</string>
+			<key>URL</key>
+			<string>http://isounds.tk/appdata/packages/newttheme.zip</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Mac OS 9</string>
+			<key>URL</key>
+			<string>http://isounds.tk/appdata/packages/os9.zip</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Lego Mindstorms NXT</string>
+			<key>URL</key>
+			<string>http://isounds.tk/appdata/packages/lego.zip</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Windows XP</string>
+			<key>URL</key>
+			<string>http://isounds.tk/appdata/packages/WinXP.zip</string>
+		</dict>
+	</array>
+	<key>FriendsRepos</key>
+	<array>
+
+	</array>
+</dict>
+</plist>

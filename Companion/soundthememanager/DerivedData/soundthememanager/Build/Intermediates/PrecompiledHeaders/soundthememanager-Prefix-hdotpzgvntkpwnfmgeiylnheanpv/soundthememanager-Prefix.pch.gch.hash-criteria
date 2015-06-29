@@ -1,0 +1,27 @@
+Contents of /Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/soundthememanager/soundthememanager-Prefix.pch
+4.2.1 (Based on Apple Inc. build 5658) (LLVM build 2410.2.00)
+arm-apple-darwin10
+-x
+c
+-arch
+armv7s
+-fmessage-length=0
+-pipe
+-std=gnu99
+-fpascal-strings
+-O0
+-DDEBUG
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk
+-gdwarf-2
+-mthumb
+-miphoneos-version-min=4.0
+-iquote
+-iquote
+-I/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphoneos/include
+-I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-F/Users/tigra/Desktop/Coding/uifeedback/Companion/soundthememanager/DerivedData/soundthememanager/Build/Products/Debug-iphoneos
+-D__BETA__
+SDK_PRODUCT_BUILD_VERSION=10A403

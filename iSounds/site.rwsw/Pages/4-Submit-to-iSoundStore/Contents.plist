@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>ID</key>
+				<string>page2</string>
+				<key>MostRecentlySelectedStyleName</key>
+				<string>Theme Default</string>
+				<key>PageTitle</key>
+				<string>Submit to iSoundStore</string>
+				<key>PluginClassName</key>
+				<string>RWContactFormPlugin</string>
+				<key>PluginMetadata</key>
+				<dict>
+					<key>Author</key>
+					<string>Realmac Software</string>
+					<key>Name</key>
+					<string>Contact Form</string>
+				</dict>
+				<key>PublishingManifest</key>
+				<dict>
+					<key>CreationDate</key>
+					<date>2013-01-18T14:55:25Z</date>
+					<key>DigestAlgorithm</key>
+					<string>MD5</string>
+					<key>DocumentGUID</key>
+					<string>A9D85BDD-5C6E-40DF-B097-89ABA2B5E0EC</string>
+					<key>PageDigests</key>
+					<dict>
+						<key>files/mailer.php</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							Q0yYXCmWbHiAq6qhpyfD
+							mA==
+							</data>
+							<key>Size</key>
+							<integer>8989</integer>
+						</dict>
+						<key>index.php</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							xOAm90Q9xh7SfkjU88v6
+							1w==
+							</data>
+							<key>Size</key>
+							<integer>5290</integer>
+						</dict>
+					</dict>
+					<key>PageID</key>
+					<string>page2</string>
+					<key>SiteRoot</key>
+					<string>submit-isound</string>
+					<key>Version</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>Data</string>
+				<string>PageAttributes</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page</string>
+</dict>
+</plist>

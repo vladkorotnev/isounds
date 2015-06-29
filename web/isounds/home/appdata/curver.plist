@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ChangeLog</key>
+	<string>Should be up in a cydia community repo. Please reinstall from there. Includes a whole lot of awesomeness! WARNING: After it's up, the beta will not work!</string>
+	<key>UserReadableName</key>
+	<string>iSounds 1.0</string>
+	<key>Version</key>
+	<string>2.0</string>
+	<key>BetaAvailableToPublic</key>
+	<string>YES</string>
+</dict>
+</plist>

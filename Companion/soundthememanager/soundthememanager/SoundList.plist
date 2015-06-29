@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>File</key>
+		<string>startup.wav</string>
+		<key>Name</key>
+		<string>Startup sound</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>actionsheet.wav</string>
+		<key>Name</key>
+		<string>ActionSheet sliding</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>airplane.wav</string>
+		<key>Name</key>
+		<string>Airplane mode</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>alert.wav</string>
+		<key>Name</key>
+		<string>Alert popup</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>alert_close.wav</string>
+		<key>Name</key>
+		<string>Alert closed</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>app_delete.wav</string>
+		<key>Name</key>
+		<string>App deleted</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>applaunch.wav</string>
+		<key>Name</key>
+		<string>App launched</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>folder.wav</string>
+		<key>Name</key>
+		<string>Folder open</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>folder_close.wav</string>
+		<key>Name</key>
+		<string>Folder closed</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>hidelsipod.wav</string>
+		<key>Name</key>
+		<string>iPod on lockscreen hidden</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>showlsipod.wav</string>
+		<key>Name</key>
+		<string>iPod on lockscreen shown</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>message.txt</string>
+		<key>Name</key>
+		<string>Message</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>modalviewdismiss.wav</string>
+		<key>Name</key>
+		<string>View dismissed</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>modalviewpresent.wav</string>
+		<key>Name</key>
+		<string>View presented</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>navigation_vcpush.wav</string>
+		<key>Name</key>
+		<string>Navigation in app</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>powerdownview.wav</string>
+		<key>Name</key>
+		<string>Poweroff slider appeared</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>powerdownviewout.wav</string>
+		<key>Name</key>
+		<string>Power off cancelled</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>progress.wav</string>
+		<key>Name</key>
+		<string>Progressbar</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>slider.wav</string>
+		<key>Name</key>
+		<string>Slider</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>switch_off.wav</string>
+		<key>Name</key>
+		<string>Switch flipped off</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>switch_on.wav</string>
+		<key>Name</key>
+		<string>Switch flipped on</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>switcher_edit.wav</string>
+		<key>Name</key>
+		<string>App switcher edit began</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>textclear.wav</string>
+		<key>Name</key>
+		<string>Text field clear button</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>vol.wav</string>
+		<key>Name</key>
+		<string>Volume button</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>unlock.wav</string>
+		<key>Name</key>
+		<string>Unlock sound</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>lock.wav</string>
+		<key>Name</key>
+		<string>Lock sound</string>
+	</dict>
+	<dict>
+		<key>File</key>
+		<string>phonepad.wav</string>
+		<key>Name</key>
+		<string>Phone button press</string>
+	</dict>
+</array>
+</plist>

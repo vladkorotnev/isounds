@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>ArchivePostsEnabled</key>
+				<true/>
+				<key>ArchivePostsPeriod</key>
+				<integer>1</integer>
+				<key>ArchivePostsShowGaps</key>
+				<true/>
+				<key>Categories</key>
+				<array>
+					<dict>
+						<key>ID</key>
+						<integer>2</integer>
+						<key>Name</key>
+						<string>Personal</string>
+					</dict>
+					<dict>
+						<key>ID</key>
+						<integer>3</integer>
+						<key>Name</key>
+						<string>Work</string>
+					</dict>
+					<dict>
+						<key>ID</key>
+						<integer>4</integer>
+						<key>Name</key>
+						<string>Humor</string>
+					</dict>
+					<dict>
+						<key>ID</key>
+						<integer>5</integer>
+						<key>Name</key>
+						<string>Apple</string>
+					</dict>
+				</array>
+				<key>CategoriesEnabled</key>
+				<false/>
+				<key>CategoriesSeparatorText</key>
+				<string> | </string>
+				<key>CategoriesTitleText</key>
+				<string>Filed in: </string>
+				<key>CommentSeparatorText</key>
+				<string> | </string>
+				<key>CommentsRSSFeedText</key>
+				<string>Comments Feed</string>
+				<key>CommentsSelectedProviderTag</key>
+				<integer>0</integer>
+				<key>CommentsUserIdentifiers</key>
+				<dict/>
+				<key>DateModifier1</key>
+				<string>%d</string>
+				<key>DateModifier2</key>
+				<string>%m</string>
+				<key>DateModifier3</key>
+				<string>%y</string>
+				<key>DateModifier4</key>
+				<string>%H:%M</string>
+				<key>DateSeparatorText1</key>
+				<string>/</string>
+				<key>DateSeparatorText2</key>
+				<string>/</string>
+				<key>DateSeparatorText3</key>
+				<string> </string>
+				<key>DateSeparatorText4</key>
+				<string> </string>
+				<key>EnableComments</key>
+				<false/>
+				<key>EnableCommentsInline</key>
+				<false/>
+				<key>EnableCustomiTunesTags</key>
+				<false/>
+				<key>EnablePing</key>
+				<false/>
+				<key>EnablePodcasting</key>
+				<true/>
+				<key>EnableRSS</key>
+				<true/>
+				<key>EnableSmileys</key>
+				<false/>
+				<key>Entries</key>
+				<array>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>6</integer>
+						</array>
+						<key>GUID</key>
+						<string>4e5513da5eb95191039906625eef19e9</string>
+						<key>ID</key>
+						<integer>5</integer>
+						<key>Posted</key>
+						<date>2013-01-18T14:53:09Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Title</key>
+						<string>is0unds.tk no longer with us</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>6</integer>
+						</array>
+						<key>GUID</key>
+						<string>0ace20419481ea9012d53d1fc4f9316e</string>
+						<key>ID</key>
+						<integer>4</integer>
+						<key>Posted</key>
+						<date>2012-02-18T12:42:28Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Title</key>
+						<string>New Video =)</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>6</integer>
+						</array>
+						<key>GUID</key>
+						<string>7581261e589cf10f4a77009ceef3bd10</string>
+						<key>ID</key>
+						<integer>3</integer>
+						<key>Posted</key>
+						<date>2012-02-18T12:41:37Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Title</key>
+						<string>Resubmitted, finally</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>6</integer>
+						</array>
+						<key>GUID</key>
+						<string>f088a1db3ac60ca79b24769f76973a79</string>
+						<key>ID</key>
+						<integer>2</integer>
+						<key>Posted</key>
+						<date>2011-12-06T13:34:16Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Title</key>
+						<string>A new feature</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>1</integer>
+						</array>
+						<key>GUID</key>
+						<string>0f5a8a722a25e5a22628eeabe1bca9ef</string>
+						<key>ID</key>
+						<integer>1</integer>
+						<key>Posted</key>
+						<date>2011-11-09T17:44:12Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Title</key>
+						<string>iSounds "TV ads"</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>1</integer>
+						</array>
+						<key>GUID</key>
+						<string>1f0137987e39b241a8cda5ff6dc21643</string>
+						<key>ID</key>
+						<integer>0</integer>
+						<key>Posted</key>
+						<date>2011-11-09T17:06:06Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Title</key>
+						<string>iSounds website</string>
+					</dict>
+				</array>
+				<key>GeneratePermalinkPages</key>
+				<true/>
+				<key>GenerateRSSEntriesForMainPageOnly</key>
+				<false/>
+				<key>LastBuildDate</key>
+				<date>2013-01-18T14:53:29Z</date>
+				<key>LastID</key>
+				<integer>6</integer>
+				<key>LastSavedBuildDate</key>
+				<date>2011-11-09T17:02:17Z</date>
+				<key>NumberOfFrontPagePosts</key>
+				<integer>5</integer>
+				<key>PermalinkText</key>
+				<string>Permalink</string>
+				<key>PingSites</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>technorati.com</string>
+						<key>rpc</key>
+						<integer>1</integer>
+						<key>url</key>
+						<string>http://rpc.technorati.com/rpc/ping</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>pingomatic.com</string>
+						<key>rpc</key>
+						<integer>1</integer>
+						<key>url</key>
+						<string>http://rpc.pingomatic.com/</string>
+					</dict>
+				</array>
+				<key>PrependSummaryToPost</key>
+				<false/>
+				<key>RSSCopyrightText</key>
+				<string>© 2011 Vladislav Korotnev</string>
+				<key>RSSCreator</key>
+				<string>Vladislav Korotnev</string>
+				<key>RSSCustomFeedFilename</key>
+				<string>feed.xml</string>
+				<key>RSSDescription</key>
+				<string>Hot news from iSounds</string>
+				<key>RSSFeedLinkText</key>
+				<string>RSS Feed</string>
+				<key>RSSLanguage</key>
+				<string>English</string>
+				<key>RSSTitleText</key>
+				<string>iSounds News</string>
+				<key>ReadMoreText</key>
+				<string> Read More...</string>
+				<key>ShowCategoryPostCounts</key>
+				<false/>
+				<key>ShowTagPostCounts</key>
+				<false/>
+				<key>SortedCategoryExport</key>
+				<true/>
+				<key>TagCloudEnabled</key>
+				<true/>
+				<key>TagsEnabled</key>
+				<false/>
+				<key>TagsSeparatorText</key>
+				<string>, </string>
+				<key>TagsTitleText</key>
+				<string>Tags: </string>
+				<key>UsePHPForSidebarContent</key>
+				<false/>
+			</dict>
+			<key>Files</key>
+			<array>
+				<string>1-Body.as</string>
+				<string>1-Summary.as</string>
+				<string>2-Body.as</string>
+				<string>2-Summary.as</string>
+				<string>3-Body.as</string>
+				<string>3-Summary.as</string>
+				<string>4-Body.as</string>
+				<string>4-Summary.as</string>
+				<string>5-Body.as</string>
+				<string>5-Summary.as</string>
+				<string>6-Body.as</string>
+				<string>6-Summary.as</string>
+			</array>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>RapidWeaver Blog Page Data</string>
+</dict>
+</plist>

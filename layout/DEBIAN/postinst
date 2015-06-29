@@ -1,0 +1,5 @@
+#!/bin/sh
+echo Thanks for using iSounds
+echo For more info visit
+echo isounds.tk
+chmod -R 777 /var/mobile/Library/iSounds
